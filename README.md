@@ -1,5 +1,5 @@
 # Clients Schedule App.
-A little CRUD Application using Python with Anaconda.
+A little CRUD application using a Python environment with Anaconda.
 
 # Resources.
 - [Anaconda v3 2021.11 (optional).](https://www.anaconda.com/products/distribution)
